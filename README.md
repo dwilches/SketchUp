@@ -1,7 +1,8 @@
 # SketchUp
 
 ## Plugins
-- **lc_exporter_plugin:**<br/>*Laser cutter Exporter.* Exports the selected faces of a SketchUp model to an SVG file that can be sent to Ponoko.
+- **lc_exporter_plugin:**<br/>*Laser cutter Exporter.* Exports the selected faces of a SketchUp model to an SVG file that can be sent to Ponoko.<br/><br/>
+![CC Attribution](docs/LaserCutterPlugin.png?raw=true)
 
 ## Electronic models
 A few models I use when creating acrylic/wooden cases for my electronic projects.
