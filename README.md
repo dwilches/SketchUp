@@ -5,12 +5,18 @@
 ![Laser Cutter Plugin](docs/LaserCutterPlugin.png?raw=true)
 
 ## Electronic models
-A few models I use when creating acrylic/wooden cases for my electronic projects.
+A few models I have used when creating acrylic/wooden cases for my electronic projects.
+They were accurately modeled to the best of my knowledge.
 
-|![Arduino Micro](docs/ArduinoMicro.png?raw=true)<br/>Arduino Micro|![A-Star ULV](docs/AStarULV.png?raw=true)<br/>A-Star ULV|
-|:---:|:---:|
-|![Generic Pin](docs/GenericPin.png?raw=true)<br/>**Generic Pin**|![Generic Pin](docs/RGBLEDMatrix.png?raw=true)<br/>**RGB LED Matrix**|
+Some examples:
 
+<table align="center">
+<tr>
+<td align="center"><img src="docs/ArduinoMicro.png?raw=true" alt="Arduino Micro"><br/>Arduino Micro</td>
+<td align="center"><img src="docs/AStarULV.png?raw=true" alt="A-Star ULV"><br/>A-Star ULV</td>
+<td align="center"><img src="docs/RGBLEDMatrix.png?raw=true" alt="RGB LED Matrix"><br/>RGB LED Matrix</td>
+</tr>
+</table>
 
 License
 =======
